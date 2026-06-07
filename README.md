@@ -1,0 +1,2 @@
+# facilities-maintenance-service-request-system
+This project involves the development of a comprehensive Facilities Maintenance &amp; Service Request System within the ServiceNow platform. The system aims to streamline the process of submitting, tracking, and resolving facility-related issues and maintenance requests. By leveraging ServiceNow's capabilities, the project will create a centralized pla
