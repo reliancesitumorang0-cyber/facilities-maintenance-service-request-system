@@ -6,7 +6,7 @@ The system will enable employees to easily submit service requests, track their 
 
 The project will cover key aspects of ServiceNow development, including table design, form configuration, workflow automation, and reporting. Students will gain hands-on experience in creating a fully functional service request system that addresses real-world business needs. This project challenges students to apply their ServiceNow skills to develop a practical and impactful solution.
 
-**Status:** planning
+**Status:** review
 **Domain:** Customer Relationship Management
 **Progress:** 0%
 
